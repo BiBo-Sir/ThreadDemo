@@ -25,6 +25,7 @@ namespace ThreadTest2
             }
         }
 
+        
         static void Main(string[] args)
         {
             Thread t = new Thread(Method2);
