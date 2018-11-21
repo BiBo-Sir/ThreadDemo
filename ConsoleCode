@@ -49,6 +49,7 @@ namespace ThreadTest
             }
             #endregion
 
+
             #region 调用线程，带参数
             var data = new Data { Message = "Info" };
             Thread t2 = new Thread(MainThreadWithParameters);
