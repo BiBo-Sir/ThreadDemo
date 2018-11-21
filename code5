@@ -1,6 +1,7 @@
 using System.Threading;
 using static System.Console;
 
+//https://www.cnblogs.com/yonghuacui/p/6206270.html
 namespace OperateAutomicInThread
 {
     abstract class CounterBase
